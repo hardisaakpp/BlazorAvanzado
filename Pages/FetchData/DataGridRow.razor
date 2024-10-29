@@ -1,0 +1,12 @@
+@using BlazorAvanzado.Models
+@code {
+    [Parameter]
+    public required WeatherForecast forecast { get; set; }
+}
+
+<tr>
+    <td>@forecast.Date.ToShortDateString()</td>
+    <td>@forecast.TemperatureC</td>
+    <td>@forecast.TemperatureF</td>
+    <td>@forecast.Summary</td>
+</tr>

@@ -1,0 +1,9 @@
+﻿@page "/counter"
+
+<PageTitle>Counter</PageTitle>
+
+<h1>Counter</h1>
+
+<p>Current count: @(vm?.currentCount ?? 0)</p>
+
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
