@@ -1038,3 +1038,4 @@
 /Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/Courses/BlazorAvanzado/bin/Debug/net8.0/publish/wwwroot/appsettings.json
 /Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/Courses/BlazorAvanzado/bin/Debug/net8.0/publish/wwwroot/sample-data/weather.json
 /Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/Courses/BlazorAvanzado/bin/Debug/net8.0/publish/wwwroot/_framework/blazor.boot.json
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/Courses/BlazorAvanzado/obj/Debug/net8.0/BlazorAvanzado.sourcelink.json
